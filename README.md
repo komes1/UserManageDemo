@@ -16,5 +16,5 @@ npm run build
 ```
 
 ### Customize configuration
-后端地址 [后端git地址]([https://github.com/yidou120/springboot-vue](https://github.com/komes1/springboot-restful-swagger-x.yh))  
+后端地址 [后端git地址]([https://github.com/komes1/springboot-restful-swagger-x.yh])  
  
