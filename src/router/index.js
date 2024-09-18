@@ -18,12 +18,12 @@ const routes = [
       {
         path: '/manage',
         name: '用户列表',
-        component: BookManage
+        component: UserManage
       },
       // {
       //   path: '/add',
       //   name: '新增用户',
-      //   component: AddBook
+      //   component: AddUser
       // }
     ]
   },
